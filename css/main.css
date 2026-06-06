@@ -271,7 +271,7 @@ a {
 }
 
 .hero__shield {
-  width: min(280px, 60vw);
+  width: min(480px, 80vw);
   margin-inline: auto;
   margin-bottom: var(--space-md);
   filter: drop-shadow(0 8px 24px rgba(0, 0, 0, 0.6));
