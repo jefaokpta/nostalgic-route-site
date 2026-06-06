@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Galeria de fotos da Nostalgic Route — shows, ensaios e bastidores.">
+  <title>Nostalgic Route | Galeria</title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main class="page-main">
+    <section class="page-section">
+      <div class="container">
+        <h1 class="page-title">Galeria</h1>
+        <p class="page-subtitle">Momentos da Nostalgic Route em shows, ensaios e bastidores.</p>
+
+        <div class="gallery-grid" id="gallery-grid">
+          <button class="gallery-item" data-index="0">
+            <img src="assets/imgs/alessandro-vocal.png" alt="Alessandro — vocal">
+          </button>
+          <button class="gallery-item" data-index="1">
+            <img src="assets/imgs/alex-guitarra.png" alt="Alex — guitarra">
+          </button>
+          <button class="gallery-item" data-index="2">
+            <img src="assets/imgs/banda-completa-tocando.jpg" alt="Banda completa tocando">
+          </button>
+          <button class="gallery-item" data-index="3">
+            <img src="assets/imgs/caveira.png" alt="Caveira">
+          </button>
+          <button class="gallery-item" data-index="4">
+            <img src="assets/imgs/denis-baixo.png" alt="Denis — baixo">
+          </button>
+          <button class="gallery-item" data-index="5">
+            <img src="assets/imgs/escudo.png" alt="Escudo Nostalgic Route">
+          </button>
+          <button class="gallery-item" data-index="6">
+            <img src="assets/imgs/jefferson-bateria.jpg" alt="Jefferson — bateria">
+          </button>
+          <button class="gallery-item" data-index="7">
+            <img src="assets/imgs/thiago-guitarra.png" alt="Thiago — guitarra">
+          </button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div class="lightbox" id="lightbox" aria-hidden="true" role="dialog" aria-label="Visualizador de imagens">
+    <button class="lightbox__close" aria-label="Fechar">&times;</button>
+    <button class="lightbox__prev" aria-label="Anterior">&#8249;</button>
+    <img class="lightbox__img" src="" alt="">
+    <button class="lightbox__next" aria-label="Próxima">&#8250;</button>
+  </div>
+
+  <div id="site-footer"></div>
+  <script src="js/layout.js"></script>
+  <script src="js/galeria.js"></script>
+</body>
+</html>
