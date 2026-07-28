@@ -1,34 +1,167 @@
 {
   "songs": [
-    { "title": "Enter Sandman", "artist": "Metallica", "year": 1991 },
-    { "title": "Master of Puppets", "artist": "Metallica", "year": 1986 },
-    { "title": "Nothing Else Matters", "artist": "Metallica", "year": 1991 },
-    { "title": "Back in Black", "artist": "AC/DC", "year": 1980 },
-    { "title": "Highway to Hell", "artist": "AC/DC", "year": 1979 },
-    { "title": "Thunderstruck", "artist": "AC/DC", "year": 1990 },
-    { "title": "Sweet Child O' Mine", "artist": "Guns N' Roses", "year": 1987 },
-    { "title": "Paradise City", "artist": "Guns N' Roses", "year": 1987 },
-    { "title": "Welcome to the Jungle", "artist": "Guns N' Roses", "year": 1987 },
-    { "title": "The Trooper", "artist": "Iron Maiden", "year": 1983 },
-    { "title": "Run to the Hills", "artist": "Iron Maiden", "year": 1982 },
-    { "title": "Fear of the Dark", "artist": "Iron Maiden", "year": 1992 },
-    { "title": "Smoke on the Water", "artist": "Deep Purple", "year": 1972 },
-    { "title": "Highway Star", "artist": "Deep Purple", "year": 1972 },
-    { "title": "Bohemian Rhapsody", "artist": "Queen", "year": 1975 },
-    { "title": "We Will Rock You", "artist": "Queen", "year": 1977 },
-    { "title": "Another One Bites the Dust", "artist": "Queen", "year": 1980 },
+    {
+      "title": "Detroit Rock City",
+      "artist": "Kiss",
+      "year": 1976
+    },
+    {
+      "title": "Mr. Brownstone",
+      "artist": "Guns N' Roses",
+      "year": 1987
+    },
+    {
+      "title": "You Could Be Mine",
+      "artist": "Guns N' Roses",
+      "year": 1991
+    },
+    {
+      "title": "You Really Got Me",
+      "artist": "Van Halen",
+      "year": 1978
+    },
+    {
+      "title": "Paranoid",
+      "artist": "Black Sabbath",
+      "year": 1970
+    },
     { "title": "Crazy Train", "artist": "Ozzy Osbourne", "year": 1980 },
-    { "title": "Mr. Crowley", "artist": "Ozzy Osbourne", "year": 1980 },
+    {
+      "title": "Perry Mason",
+      "artist": "Ozzy Osbourne",
+      "year": 1995
+    },
+    {
+      "title": "Mama I'm Coming Home",
+      "artist": "Ozzy Osbourne",
+      "year": 1991
+    },
+    {
+      "title": "2 Minutes to Midnight",
+      "artist": "Iron Maiden",
+      "year": 1984
+    },
+    {
+      "title": "Enter Sandman",
+      "artist": "Metallica",
+      "year": 1991
+    },
+    {
+      "title": "Fuel",
+      "artist": "Metallica",
+      "year": 1997
+    },
+    {
+      "title": "A Tout Le Monde",
+      "artist": "Megadeth",
+      "year": 1994
+    },
+    {
+      "title": "Symphony of Destruction",
+      "artist": "Megadeth",
+      "year": 1992
+    },
     { "title": "Breaking the Law", "artist": "Judas Priest", "year": 1980 },
-    { "title": "Living After Midnight", "artist": "Judas Priest", "year": 1980 },
-    { "title": "Ace of Spades", "artist": "Motörhead", "year": 1980 },
-    { "title": "Kickstart My Heart", "artist": "Mötley Crüe", "year": 1989 },
-    { "title": "Pour Some Sugar on Me", "artist": "Def Leppard", "year": 1987 },
+    {
+      "title": "Toxicity",
+      "artist": "System of a Down",
+      "year": 2001
+    },
     { "title": "Rock You Like a Hurricane", "artist": "Scorpions", "year": 1984 },
-    { "title": "Wind of Change", "artist": "Scorpions", "year": 1990 },
-    { "title": "Black Dog", "artist": "Led Zeppelin", "year": 1971 },
-    { "title": "Whole Lotta Love", "artist": "Led Zeppelin", "year": 1969 },
-    { "title": "Paranoid", "artist": "Black Sabbath", "year": 1970 },
-    { "title": "Iron Man", "artist": "Black Sabbath", "year": 1970 }
+    {
+      "title": "Killing in the Name",
+      "artist": "Rage Against the Machine",
+      "year": 1992
+    },
+    {
+      "title": "Suck My Kiss",
+      "artist": "Red Hot Chili Peppers",
+      "year": 1991
+    },
+    {
+      "title": "Dani California",
+      "artist": "Red Hot Chili Peppers",
+      "year": 2006
+    },
+    {
+      "title": "We're Not Gonna Take It",
+      "artist": "Twisted Sister",
+      "year": 1984
+    },
+    {
+      "title": "Plush",
+      "artist": "Stone Temple Pilots",
+      "year": 1992
+    },
+    {
+      "title": "Like a Stone",
+      "artist": "Audioslave",
+      "year": 2002
+    },
+    {
+      "title": "In Bloom",
+      "artist": "Nirvana",
+      "year": 1992
+    },
+    {
+      "title": "All My Life",
+      "artist": "Foo Fighters",
+      "year": 2002
+    },
+    {
+      "title": "Learn to Fly",
+      "artist": "Foo Fighters",
+      "year": 1999
+    },
+    {
+      "title": "American Idiot",
+      "artist": "Green Day",
+      "year": 2004
+    },
+    {
+      "title": "Welcome to Paradise",
+      "artist": "Green Day",
+      "year": 1994
+    },
+    {
+      "title": "The Kids Aren't Alright",
+      "artist": "The Offspring",
+      "year": 1998
+    },
+    {
+      "title": "Come Out and Play",
+      "artist": "The Offspring",
+      "year": 1994
+    },
+    {
+      "title": "Freak",
+      "artist": "Silverchair",
+      "year": 1997
+    },
+    {
+      "title": "Eu Quero Ver o Oco",
+      "artist": "Raimundos",
+      "year": 1995
+    },
+    {
+      "title": "Ela Roubou Meu Caminhão",
+      "artist": "Matanza",
+      "year": 2005
+    },
+    {
+      "title": "Cabrobró",
+      "artist": "Tianastácia",
+      "year": 2003
+    },
+    {
+      "title": "1406",
+      "artist": "Mamonas Assassinas",
+      "year": 1995
+    },
+    {
+      "title": "Debil Metal",
+      "artist": "Mamonas Assassinas",
+      "year": 1995
+    }
   ]
 }
