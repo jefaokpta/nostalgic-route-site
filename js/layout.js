@@ -9,9 +9,8 @@
   ];
 
   const SOCIAL_LINKS = [
-    { href: '#', label: 'Instagram', icon: 'instagram' },
-    { href: '#', label: 'YouTube', icon: 'youtube' },
-    { href: '#', label: 'Spotify', icon: 'spotify' },
+    {href: 'https://www.instagram.com/nostalgicrouteband/', label: 'Instagram', icon: 'instagram'},
+    {href: 'https://www.youtube.com/@NostalgicRoute', label: 'YouTube', icon: 'youtube'},
   ];
 
   const currentPage = window.location.pathname.split('/').pop() || 'index.html';
@@ -24,7 +23,6 @@
     const icons = {
       instagram: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5zm10 2H7a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3zm-5 3.5a5.5 5.5 0 1 1 0 11 5.5 5.5 0 0 1 0-11zm0 2a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7zm5.75-2.25a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5z"/></svg>',
       youtube: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21.6 7.2a3 3 0 0 0-2.1-2.1C17.8 4.6 12 4.6 12 4.6s-5.8 0-7.5.5A3 3 0 0 0 2.4 7.2 31.4 31.4 0 0 0 2 12a31.4 31.4 0 0 0 .4 4.8 3 3 0 0 0 2.1 2.1c1.7.5 7.5.5 7.5.5s5.8 0 7.5-.5a3 3 0 0 0 2.1-2.1A31.4 31.4 0 0 0 22 12a31.4 31.4 0 0 0-.4-4.8zM10 15.5v-7l6 3.5-6 3.5z"/></svg>',
-      spotify: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm4.6 14.3a.8.8 0 0 1-1.1.3c-3-1.8-6.8-2.2-11.3-1.2a.8.8 0 0 1-.4-1.5c4.9-1.1 9.1-.6 12.5 1.4.4.2.5.7.3 1zm1.5-3.4a1 1 0 0 1-1.3.4c-3.4-2-8.6-2.6-12.6-1.4a1 1 0 0 1-.5-1.9c4.6-1.3 10.4-.6 14.3 1.7.5.3.7 1 .2 1.2zm.2-3.6a1.2 1.2 0 0 1-1.6.5C13.7 8.2 8.2 8 4.6 9a1.2 1.2 0 0 1-.7-2.3c4.1-1.1 10.2-.9 14.5 1.3.6.3.8 1.1.2 1.7z"/></svg>',
     };
     return icons[icon] || '';
   }
