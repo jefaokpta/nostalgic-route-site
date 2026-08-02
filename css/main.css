@@ -641,6 +641,37 @@ a {
   width: 80px;
 }
 
+.repertorio-table .col-spotify {
+  width: 64px;
+  text-align: center;
+}
+
+.spotify-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #1db954;
+  transition: opacity 0.15s ease, color 0.15s ease;
+}
+
+.spotify-link:hover,
+.spotify-link:focus-visible {
+  color: #1ed760;
+  opacity: 0.85;
+  outline: none;
+}
+
+.spotify-icon {
+  width: 22px;
+  height: 22px;
+  fill: currentColor;
+}
+
+.spotify-empty {
+  color: var(--color-text-muted);
+  opacity: 0.5;
+}
+
 .repertorio-empty {
   color: var(--color-text-muted);
   padding: var(--space-lg);

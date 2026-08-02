@@ -3,165 +3,212 @@
     {
       "title": "Detroit Rock City",
       "artist": "Kiss",
-      "year": 1976
+      "year": 1976,
+      "spotify": "https://open.spotify.com/track/3IjrDeaVRFEi3GgHI5xyjX?si=7e68e5accb384200"
     },
     {
       "title": "Mr. Brownstone",
       "artist": "Guns N' Roses",
-      "year": 1987
+      "year": 1987,
+      "spotify": ""
     },
     {
       "title": "You Could Be Mine",
       "artist": "Guns N' Roses",
-      "year": 1991
+      "year": 1991,
+      "spotify": ""
     },
     {
       "title": "You Really Got Me",
       "artist": "Van Halen",
-      "year": 1978
+      "year": 1978,
+      "spotify": ""
     },
     {
       "title": "Paranoid",
       "artist": "Black Sabbath",
-      "year": 1970
+      "year": 1970,
+      "spotify": ""
     },
-    { "title": "Crazy Train", "artist": "Ozzy Osbourne", "year": 1980 },
+    {
+      "title": "Crazy Train",
+      "artist": "Ozzy Osbourne",
+      "year": 1980,
+      "spotify": ""
+    },
     {
       "title": "Perry Mason",
       "artist": "Ozzy Osbourne",
-      "year": 1995
+      "year": 1995,
+      "spotify": ""
     },
     {
       "title": "Mama I'm Coming Home",
       "artist": "Ozzy Osbourne",
-      "year": 1991
+      "year": 1991,
+      "spotify": ""
     },
     {
       "title": "2 Minutes to Midnight",
       "artist": "Iron Maiden",
-      "year": 1984
+      "year": 1984,
+      "spotify": ""
     },
     {
       "title": "Enter Sandman",
       "artist": "Metallica",
-      "year": 1991
+      "year": 1991,
+      "spotify": ""
     },
     {
       "title": "Fuel",
       "artist": "Metallica",
-      "year": 1997
+      "year": 1997,
+      "spotify": ""
     },
     {
       "title": "A Tout Le Monde",
       "artist": "Megadeth",
-      "year": 1994
+      "year": 1994,
+      "spotify": ""
     },
     {
       "title": "Symphony of Destruction",
       "artist": "Megadeth",
-      "year": 1992
+      "year": 1992,
+      "spotify": ""
     },
-    { "title": "Breaking the Law", "artist": "Judas Priest", "year": 1980 },
+    {
+      "title": "Breaking the Law",
+      "artist": "Judas Priest",
+      "year": 1980,
+      "spotify": ""
+    },
     {
       "title": "Toxicity",
       "artist": "System of a Down",
-      "year": 2001
+      "year": 2001,
+      "spotify": ""
     },
-    { "title": "Rock You Like a Hurricane", "artist": "Scorpions", "year": 1984 },
+    {
+      "title": "Rock You Like a Hurricane",
+      "artist": "Scorpions",
+      "year": 1984,
+      "spotify": ""
+    },
     {
       "title": "Killing in the Name",
       "artist": "Rage Against the Machine",
-      "year": 1992
+      "year": 1992,
+      "spotify": ""
     },
     {
       "title": "Suck My Kiss",
       "artist": "Red Hot Chili Peppers",
-      "year": 1991
+      "year": 1991,
+      "spotify": ""
     },
     {
       "title": "Dani California",
       "artist": "Red Hot Chili Peppers",
-      "year": 2006
+      "year": 2006,
+      "spotify": ""
     },
     {
       "title": "We're Not Gonna Take It",
       "artist": "Twisted Sister",
-      "year": 1984
+      "year": 1984,
+      "spotify": ""
     },
     {
       "title": "Plush",
       "artist": "Stone Temple Pilots",
-      "year": 1992
+      "year": 1992,
+      "spotify": ""
     },
     {
       "title": "Like a Stone",
       "artist": "Audioslave",
-      "year": 2002
+      "year": 2002,
+      "spotify": ""
     },
     {
       "title": "In Bloom",
       "artist": "Nirvana",
-      "year": 1992
+      "year": 1992,
+      "spotify": ""
     },
     {
       "title": "All My Life",
       "artist": "Foo Fighters",
-      "year": 2002
+      "year": 2002,
+      "spotify": ""
     },
     {
       "title": "Learn to Fly",
       "artist": "Foo Fighters",
-      "year": 1999
+      "year": 1999,
+      "spotify": ""
     },
     {
       "title": "American Idiot",
       "artist": "Green Day",
-      "year": 2004
+      "year": 2004,
+      "spotify": ""
     },
     {
       "title": "Welcome to Paradise",
       "artist": "Green Day",
-      "year": 1994
+      "year": 1994,
+      "spotify": ""
     },
     {
       "title": "The Kids Aren't Alright",
       "artist": "The Offspring",
-      "year": 1998
+      "year": 1998,
+      "spotify": ""
     },
     {
       "title": "Come Out and Play",
       "artist": "The Offspring",
-      "year": 1994
+      "year": 1994,
+      "spotify": ""
     },
     {
       "title": "Freak",
       "artist": "Silverchair",
-      "year": 1997
+      "year": 1997,
+      "spotify": ""
     },
     {
       "title": "Eu Quero Ver o Oco",
       "artist": "Raimundos",
-      "year": 1995
+      "year": 1995,
+      "spotify": ""
     },
     {
       "title": "Ela Roubou Meu Caminhão",
       "artist": "Matanza",
-      "year": 2005
+      "year": 2005,
+      "spotify": ""
     },
     {
       "title": "Cabrobró",
       "artist": "Tianastácia",
-      "year": 2003
+      "year": 2003,
+      "spotify": ""
     },
     {
       "title": "1406",
       "artist": "Mamonas Assassinas",
-      "year": 1995
+      "year": 1995,
+      "spotify": ""
     },
     {
       "title": "Debil Metal",
       "artist": "Mamonas Assassinas",
-      "year": 1995
+      "year": 1995,
+      "spotify": ""
     }
   ]
 }
