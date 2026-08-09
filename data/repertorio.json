@@ -209,6 +209,30 @@
       "artist": "Mamonas Assassinas",
       "year": 1995,
       "spotify": "https://open.spotify.com/search/Mamonas%20Assassinas%20Debil%20Metal"
+    },
+    {
+      "title": "Sugar",
+      "artist": "System of a Down",
+      "year": 1998,
+      "spotify": "https://open.spotify.com/search/System%20of%20a%20Down%20Sugar"
+    },
+    {
+      "title": "Linkin Park",
+      "artist": "Somewhere I Belong",
+      "year": 2003,
+      "spotify": "https://open.spotify.com/search/Linkin%20Park%20Somewhere%20I%20Belong"
+    },
+    {
+      "title": "Perry Mason",
+      "artist": "Ozzy Osbourne",
+      "year": 1995,
+      "spotify": "https://open.spotify.com/search/Ozzy%20Osbourne%20Perry%20Mason"
+    },
+    {
+      "title": "Guns N' Roses",
+      "artist": "You Cold Be Mine",
+      "year": 1991,
+      "spotify": "https://open.spotify.com/search/Guns%20N'%20Roses%20You%20Cold%20Be%20Mine"
     }
   ]
 }
